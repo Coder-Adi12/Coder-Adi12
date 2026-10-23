@@ -1,6 +1,6 @@
 <!-- Batman / Gotham profile theme for Coder-Adi12 -->
 <div align="center">
-  <img src="./assets/batman-gotham.gif" width="100%" alt="Animated Gotham skyline beneath a glowing bat signal" />
+  <img src="./assets/batman-gotham.svg" width="100%" alt="Animated Gotham skyline beneath a glowing bat signal" />
   <h1>ADITYA BORHADE</h1>
   <h3>AI / ML • SOFTWARE DEVELOPMENT • FULL-STACK BUILDER</h3>
   <p><strong>Learning. Building. Shipping.</strong></p>
