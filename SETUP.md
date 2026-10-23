@@ -1,16 +1,14 @@
 # Gotham Batman GitHub Profile
 
-## Contents
-- `README.md` — profile layout, project cards, technology icons, and GitHub statistics.
-- `assets/batman-gotham.svg` — custom Gotham/Batman-inspired vector banner. It includes subtle SVG animation for the bat-signal glow and rain; browsers that do not animate SVG will still show the static artwork.
+## Files
+- `README.md` — profile layout, project showcase, technology icons, and GitHub statistics.
+- `assets/batman-gotham.jpg` — cinematic Gotham banner displayed at the top of the profile.
+- `assets/batman-gotham.svg` — alternate vector artwork with subtle signal/rain animation where SVG animation is supported.
 
-## Install
-This is the special profile repository for the GitHub username `Coder-Adi12`. Keep it public for the profile README to appear publicly.
-
-The profile README expects this exact path:
-`assets/batman-gotham.svg`
+## How it works
+This is the special profile repository for the GitHub username `Coder-Adi12`. Keep the repository public for the README to appear on the profile. The README references the banner by its relative path, so keep the `assets/` directory and file names unchanged.
 
 ## Customize
-- Edit the project list in `README.md` as your projects evolve.
-- The stats cards use third-party GitHub README services and may be temporarily unavailable.
-- Pin four to six repositories on your GitHub profile for a more curated first impression.
+- Edit project cards and skills in `README.md` as your work evolves.
+- GitHub stat cards rely on third-party services, which may occasionally be delayed or unavailable.
+- Pin four to six repositories on your profile to curate the first impression.
