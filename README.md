@@ -1,143 +1,165 @@
-<!-- Batman / Gotham profile theme for Coder-Adi12 -->
+<!-- BATCOMPUTER // Gotham profile for Coder-Adi12 -->
 <div align="center">
-  <img src="./assets/batman-gotham.svg" width="100%" alt="Animated Gotham skyline beneath a glowing bat signal" />
+  <img src="./assets/batman-gotham.svg" width="100%" alt="Gotham skyline and Bat-Signal — custom Batman-inspired banner" />
+
   <h1>ADITYA BORHADE</h1>
-  <h3>AI / ML • SOFTWARE DEVELOPMENT • FULL-STACK BUILDER</h3>
-  <p><strong>Learning. Building. Shipping.</strong></p>
-  <p>I explore how intelligent systems work, build useful software, and turn ideas into practical projects.</p>
+  <h3>AI / ML • FULL-STACK AI SOFTWARE</h3>
+  <p><em>Building intelligent systems. Understanding models. Shipping useful AI.</em></p>
+
   <a href="https://github.com/Coder-Adi12"><img src="https://img.shields.io/badge/GitHub-Coder--Adi12-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:adityaborhade62@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-C9A227?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email" /></a>
-  <a href="https://github.com/Coder-Adi12/Orbit-X-Studios"><img src="https://img.shields.io/badge/Orbit--X_Studios-Explore-243B64?style=for-the-badge&logo=react&logoColor=white" alt="Orbit-X Studios" /></a>
 </div>
 
 ---
 
-## 🦇 The Mission
+## 🦇 THE MISSION
 
-I'm **Aditya Borhade**, a Computer Engineering student building across **AI/ML, generative AI, and modern web development**. I enjoy learning the fundamentals behind a system, implementing what I learn, and documenting the results clearly.
+I'm **Aditya Borhade**, a Computer Engineering student focused on **Artificial Intelligence, Machine Learning, Generative AI, and AI-powered software**.
 
-- **AI & machine learning:** regression, classification, data analysis, and model evaluation.
-- **Generative AI:** exploring tokenizers, attention, Transformer blocks, and small GPT-style models.
-- **Web engineering:** building React/TypeScript experiences and connecting them to backend services.
-- **Build mindset:** practical projects, measurable results, readable code, and steady improvement.
+My interests range from understanding the components behind neural networks and language models to building complete AI applications that connect models, data, APIs, and real-time user experiences.
 
-> *Gotham has a signal. I have a terminal.*
+- **Machine Learning:** data preparation, regression, classification, evaluation, and experimentation.
+- **Generative AI:** tokenization, attention, Transformer blocks, small GPT-style models, and text generation.
+- **AI Applications:** voice agents, inference pipelines, APIs, and backend integrations.
+- **Current focus:** stronger ML fundamentals, model-building practice, reproducible experiments, and deploying AI systems responsibly.
 
-## ⚡ Featured Projects
+> *Gotham has the Bat-Signal. I have the Batcomputer.*
+
+## ⚡ AI / ML PROJECTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <h3>🧠 <a href="https://github.com/Coder-Adi12/neetcode-gpt">My GPT — Built from Scratch</a></h3>
-A learning project progressing from neural-network foundations to a GPT-style model.
-<br/><br/>
-Attention · Transformers · Tokenization · Python
+A hands-on learning project that progresses from neural-network foundations to a GPT-style language model.
+
+<strong>Explores</strong><br/>
+Attention · Transformer blocks · Tokenization · Normalization · Training · Text generation
 </td>
 <td width="50%" valign="top">
-<h3>🔥 <a href="https://github.com/Coder-Adi12/Babygpt">BabyGPT</a></h3>
-A compact language-model experiment with custom tokenization and decoder components.
-<br/><br/>
-BPE Tokenizer · Multi-Head Attention · KV Cache
-<br/><sub>Repository documents a 5.28M-parameter model.</sub>
+<h3>🦾 <a href="https://github.com/Coder-Adi12/Babygpt">BabyGPT</a></h3>
+A compact GPT-style language-model experiment with custom tokenization and decoder components.
+
+<strong>Explores</strong><br/>
+BPE tokenizer · Multi-head attention · KV cache · Sampling · Training checkpoints
+
+<sub>The repository documents a model with 5.28M parameters.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🎙️ <a href="https://github.com/Coder-Adi12/RUSBORN">RUSBORN — Voice AI</a></h3>
-Voice-agent project using LiveKit Agents and LiveKit Cloud with connected backend components.
-<br/><br/>
-Voice AI · Python · LiveKit · Supabase
+<h3>🎙️ <a href="https://github.com/Coder-Adi12/RUSBORN">RUSBORN — Voice AI Agent</a></h3>
+A voice-agent project built around LiveKit Agents / LiveKit Cloud, with connected backend services.
+
+<strong>Explores</strong><br/>
+Real-time voice workflows · Python · LiveKit · Supabase integration
 </td>
 <td width="50%" valign="top">
 <h3>🏠 <a href="https://github.com/Coder-Adi12/House-Price-Prediction">House Price Prediction</a></h3>
-Ames housing regression with preprocessing, feature engineering, and model comparison.
-<br/><br/>
-Pandas · scikit-learn · Ridge · Lasso
-<br/><sub>Repository reports a Kaggle test RMSE of 0.14139.</sub>
+Ames housing regression project focused on preprocessing, feature engineering, and comparing regularized models.
+
+<strong>Explores</strong><br/>
+Ridge · Lasso · ElasticNet · Cross-validation · RMSE
+
+<sub>The repository reports a Kaggle test RMSE of 0.14139.</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3>❤️ <a href="https://github.com/Coder-Adi12/HeartDiseasePrediction">Heart Disease Prediction</a></h3>
-Classification workflow comparing Logistic Regression and Decision Tree, with EDA and evaluation metrics.
-<br/><br/>
-Python · EDA · scikit-learn · Classification
-<br/><sub>Repository reports 85.37% test accuracy for Logistic Regression.</sub>
+A classification project comparing Logistic Regression with a Decision Tree using structured health data.
+
+<strong>Explores</strong><br/>
+EDA · Encoding · Feature scaling · Classification metrics
+
+<sub>The repository reports 85.37% test accuracy for Logistic Regression.</sub>
 </td>
 <td width="50%" valign="top">
 <h3>🩺 <a href="https://github.com/Coder-Adi12/DiabetesPrediction">Diabetes Prediction</a></h3>
-Baseline classification project using the Pima Indians Diabetes dataset.
-<br/><br/>
-Python · NumPy · Pandas · scikit-learn
+A baseline classification workflow using the Pima Indians Diabetes dataset.
+
+<strong>Explores</strong><br/>
+Python · Pandas · NumPy · Logistic Regression · Model evaluation
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🌌 <a href="https://github.com/Coder-Adi12/Orbit-X-Studios">Orbit-X Studios</a></h3>
-Modern interactive web application using a React-based TypeScript stack.
-<br/><br/>
-React · TypeScript · Vite · Tailwind CSS
+<h3>🌲 <a href="https://github.com/Coder-Adi12/testforestfires">Forest Fire Prediction</a></h3>
+A notebook-based machine-learning project with model training artifacts.
+
+<strong>Focus</strong><br/>
+Notebook experimentation · Predictive modelling
 </td>
 <td width="50%" valign="top">
-<h3>🎓 <a href="https://github.com/Coder-Adi12/LotusEnglishAcedemy">Lotus English Academy</a></h3>
-Responsive academy website with English/Marathi content, gallery sections, and WhatsApp inquiries.
-<br/><br/>
-React · TypeScript · Tailwind CSS · Vite
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>💻 <a href="https://github.com/Coder-Adi12/neetcode-submissions">NeetCode Submissions</a></h3>
-Coding-practice solutions synced and organized by topic and problem.
-<br/><br/>
-Problem Solving · DSA Practice · GitHub Sync
-</td>
-<td width="50%" valign="top">
-<h3>🌐 <a href="https://github.com/Coder-Adi12/My-Portfolio">My Portfolio</a></h3>
-My personal portfolio repository for an introduction, selected work, and contact information.
-<br/><br/>
-HTML · CSS · Responsive Design
+<h3>🧪 <a href="https://github.com/Coder-Adi12/endtoendMLproject">End-to-End ML Project</a></h3>
+A structured machine-learning project repository with source, notebooks, and dependency/setup files.
+
+<strong>Focus</strong><br/>
+ML project organization · Python · Reproducible setup
 </td>
 </tr>
 </table>
 
-## 🧰 Tech Stack
+## 🧰 AI / ML TOOLKIT
 
-### Languages
-<p align="center"><img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=dark" alt="Python, C++, Java, JavaScript, TypeScript, HTML, CSS" /></p>
+### Programming & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql&theme=dark" alt="Python, C++, SQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,jupyter" alt="NumPy, Pandas, Matplotlib, Jupyter" />
+</p>
 
-### Web & Backend
-<p align="center"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,flask,supabase,mysql,mongodb&theme=dark" alt="React, Vite, Tailwind CSS, Node.js, Flask, Supabase, MySQL, MongoDB" /></p>
+### Machine Learning & Deep Learning
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pytorch,tensorflow,opencv" alt="Scikit-learn, PyTorch, TensorFlow, OpenCV" />
+</p>
 
-### AI / Data & Tools
-<p align="center"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,numpy,pandas,git,github,vscode&theme=dark" alt="PyTorch, scikit-learn, OpenCV, NumPy, Pandas, Git, GitHub, VS Code" /></p>
+### Full-Stack AI Software
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,supabase,mysql,git,github,vscode&theme=dark" alt="Flask, FastAPI, Supabase, MySQL, Git, GitHub, VS Code" />
+</p>
 
-## 📊 Batcomputer Telemetry
+<sub>These icons represent tools used in or explored through my projects; they are not a claim of equal proficiency in every tool.</sub>
+
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
-<a href="https://github.com/Coder-Adi12"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Coder-Adi12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" /></a>
-<a href="https://github.com/Coder-Adi12"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Adi12&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9" alt="Top programming languages" /></a>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Coder-Adi12&hide_border=true&background=0D1117&ring=E3B341&fire=E3B341&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub contribution streak" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Adi12&bg_color=0D1117&color=C9D1D9&line=E3B341&point=58A6FF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Coder-Adi12/Coder-Adi12/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Coder-Adi12/Coder-Adi12/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation moving through my GitHub contribution graph" src="https://raw.githubusercontent.com/Coder-Adi12/Coder-Adi12/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
-<sub>GitHub stats and activity graphs are hosted by third-party services and may occasionally be delayed or unavailable.</sub>
+<sub>The snake is generated by GitHub Actions. After the first workflow run, it may take a short time for the output image to appear.</sub>
 
-## 🛰️ Future Scope
+## 📊 BATCOMPUTER TELEMETRY
 
-- Build more complete AI applications, from data preparation to deployment.
-- Deepen understanding of neural networks, Transformers, and model evaluation.
-- Ship reliable full-stack products with clean interfaces and useful documentation.
-- Keep practising data structures, algorithms, and software engineering fundamentals.
-
-## 📡 Find Me Online
 <div align="center">
-<a href="https://github.com/Coder-Adi12"><img src="https://img.shields.io/badge/GitHub-Coder--Adi12-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-<a href="mailto:adityaborhade62@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-C9A227?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email Aditya" /></a>
-<br/><br/>
-<strong>The night is dark. The build is always running.</strong>
-<br/>
-<sub>Made with curiosity, coffee, and a little Gotham energy. 🦇</sub>
+  <a href="https://github.com/Coder-Adi12">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Coder-Adi12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/Coder-Adi12">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Adi12&layout=compact&hide_border=true&bg_color=0D1117&title_color=E3B341&text_color=C9D1D9" alt="Most used languages" />
+  </a>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Coder-Adi12&hide_border=true&background=0D1117&ring=E3B341&fire=E3B341&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub contribution streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Adi12&bg_color=0D1117&color=C9D1D9&line=E3B341&point=58A6FF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
+</div>
+
+<sub>GitHub stats are rendered by third-party services and may occasionally be delayed or unavailable.</sub>
+
+## 🎯 NEXT OBJECTIVES
+
+- Deepen understanding of ML, deep learning, and Transformer architectures.
+- Build end-to-end AI software, from data and model evaluation to inference and deployment.
+- Improve experiment tracking, testing, documentation, and reliability of AI applications.
+
+## 📡 CONTACT
+
+<div align="center">
+  <a href="mailto:adityaborhade62@gmail.com"><img src="https://img.shields.io/badge/Email-Aditya_Borhade-C9A227?style=for-the-badge&logo=gmail&logoColor=111827" alt="Email Aditya" /></a>
+  <a href="https://github.com/Coder-Adi12"><img src="https://img.shields.io/badge/GitHub-Coder--Adi12-111827?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <br/><br/>
+  <strong>Stay curious. Build with purpose. Keep shipping. 🦇</strong>
 </div>
