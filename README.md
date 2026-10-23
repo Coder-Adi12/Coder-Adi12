@@ -144,7 +144,7 @@ ML project organization · Python · Reproducible setup
   <br/>
   <img src="https://streak-stats.demolab.com?user=Coder-Adi12&hide_border=true&background=0D1117&ring=E3B341&fire=E3B341&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E" alt="GitHub contribution streak" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Coder-Adi12&bg_color=0D1117&color=C9D1D9&line=E3B341&point=58A6FF&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
+  <sub>Contribution activity is shown in the Snake section above; this profile avoids relying on the currently unavailable public activity-graph endpoint.</sub>
 </div>
 
 <sub>GitHub stats are rendered by third-party services and may occasionally be delayed or unavailable.</sub>
