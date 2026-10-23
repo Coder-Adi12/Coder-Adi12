@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+<title id="title">Gotham Night — Batman-inspired developer banner</title>
+<desc id="desc">A dark cinematic city skyline, a glowing golden bat signal, falling rain, and a caped rooftop vigilante.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#030611"/><stop offset=".48" stop-color="#101a31"/><stop offset="1" stop-color="#070b14"/></linearGradient>
+  <radialGradient id="signal"><stop offset="0" stop-color="#ffe9a3" stop-opacity=".9"/><stop offset=".23" stop-color="#e3b341" stop-opacity=".55"/><stop offset="1" stop-color="#e3b341" stop-opacity="0"/></radialGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe9a3" stop-opacity=".03"/><stop offset=".5" stop-color="#e3b341" stop-opacity=".13"/><stop offset="1" stop-color="#e3b341" stop-opacity="0"/></linearGradient>
+  <linearGradient id="cape" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202b3d"/><stop offset=".55" stop-color="#080b12"/><stop offset="1" stop-color="#020308"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+  <pattern id="windows" width="28" height="32" patternUnits="userSpaceOnUse"><rect x="7" y="7" width="4" height="9" fill="#77bfff" opacity=".65"/><rect x="18" y="20" width="3" height="6" fill="#e3b341" opacity=".45"/></pattern>
+  <g id="bat"><path d="M-94 0 L-67 -14 L-44 -11 L-27 -29 L-11 -17 L0 -41 L11 -17 L27 -29 L44 -11 L67 -14 L94 0 L72 13 L49 10 L30 28 L10 18 L0 38 L-10 18 L-30 28 L-49 10 L-72 13 Z" fill="#f8d66d"/></g>
+  <g id="building"><path d="M0 0V-140L16 -157L16 -176L28 -176L28 -157L45 -140V0Z" fill="#070b15" stroke="#1f2c43" stroke-width="2"/><path d="M5 -125H40V0H5Z" fill="url(#windows)" opacity=".7"/></g>
+</defs>
+<rect width="1600" height="500" fill="url(#sky)"/>
+<circle cx="800" cy="155" r="200" fill="url(#signal)"/>
+<path d="M1060 20 L310 430 L1200 475 Z" fill="url(#beam)"/>
+<g opacity=".9">
+  <circle cx="160" cy="62" r="1.5" fill="#b4c5df"/><circle cx="380" cy="92" r="1" fill="#b4c5df"/><circle cx="1200" cy="60" r="1.5" fill="#b4c5df"/><circle cx="1430" cy="118" r="1" fill="#b4c5df"/><circle cx="1050" cy="125" r="1.3" fill="#b4c5df"/>
+</g>
+<!-- distant Gotham skyline -->
+<g fill="#0b1120" stroke="#1b2940" stroke-width="2">
+  <path d="M0 380V260L25 239V220L33 239V260L57 252V191L72 174L87 191V256L115 242V213L129 193L142 213V276L160 258V181L181 151L204 181V294L229 278V235L246 209L262 235V300L292 286V218L315 194L340 218V313L361 301V240L390 212L416 240V344L450 325V258L474 235L496 258V353L525 338V210L550 184L575 210V337L606 322V245L631 222L655 245V350L690 331V250L716 218L741 250V360L775 344V260L797 239L820 260V355L850 335V239L878 211L900 239V333L934 320V270L956 247L978 270V350L1007 331V209L1034 180L1061 209V329L1086 316V253L1110 228L1134 253V353L1164 333V224L1191 196L1216 224V320L1248 307V242L1274 214L1299 242V335L1327 316V195L1354 168L1381 195V300L1407 279V227L1432 207L1454 227V287L1488 272V216L1512 196L1536 216V263L1562 252L1600 269V500H0Z"/>
+</g>
+<g opacity=".8"><path d="M75 500V315H151V500M279 500V342H349V500M478 500V371H550V500M656 500V360H717V500M912 500V354H983V500M1119 500V370H1195V500M1323 500V345H1404V500M1480 500V323H1552V500" fill="#0b1324" stroke="#22324b" stroke-width="2"/><path d="M75 315H151V500H75ZM279 342H349V500H279ZM478 371H550V500H478ZM656 360H717V500H656ZM912 354H983V500H912ZM1119 370H1195V500H1119ZM1323 345H1404V500H1323ZM1480 323H1552V500H1480Z" fill="url(#windows)" opacity=".45"/></g>
+<!-- highlighted towers -->
+<g>
+  <use href="#building" x="250" y="440" transform="translate(0 -5) scale(1.04)"/>
+  <path d="M1230 500V145L1250 114L1250 85L1260 85L1260 114L1282 145V500Z" fill="#080d19" stroke="#2b3a53" stroke-width="2"/>
+  <path d="M1248 180H1265V490H1248Z" fill="url(#windows)" opacity=".9"/>
+  <path d="M1300 500V260L1325 226L1350 260V500Z" fill="#0a1020" stroke="#22334c" stroke-width="2"/>
+  <path d="M1310 285H1340V490H1310Z" fill="url(#windows)" opacity=".7"/>
+</g>
+<!-- distant signal halo and bat -->
+<ellipse cx="800" cy="142" rx="210" ry="98" fill="#e3b341" opacity=".07"><animate attributeName="opacity" values=".04;.1;.04" dur="5s" repeatCount="indefinite"/></ellipse>
+<g transform="translate(800 142)"><use href="#bat" transform="scale(1.14)" opacity=".15" filter="url(#glow)"/><use href="#bat" transform="scale(.9)"/><animateTransform attributeName="transform" type="translate" values="800 142;800 139;800 142" dur="5s" repeatCount="indefinite"/></g>
+<!-- rooftop and vigilante -->
+<path d="M0 465L195 450L310 466L432 438L565 462L650 442L724 461L807 435L891 458L1015 439L1140 465L1295 446L1428 461L1600 442V500H0Z" fill="#02040a"/>
+<path d="M620 500L642 372Q650 324 686 287L704 243L696 215L709 182L727 166L742 190L754 182L765 168L780 180L795 177L809 196L807 225L827 257Q862 279 884 314L917 402L955 500Z" fill="url(#cape)" stroke="#29364a" stroke-width="3"/>
+<path d="M700 255Q745 278 806 252L834 315L859 405L900 500H625L654 383L676 312Z" fill="#05070c"/>
+<path d="M703 237Q723 252 745 243L760 259L783 244Q799 253 810 237L801 279L768 300L734 279Z" fill="#121b2a" stroke="#38475b" stroke-width="2"/>
+<path d="M719 212L711 186L729 166L745 175L755 163L773 179L790 177L805 196L803 226L788 241L758 247L733 239Z" fill="#020409" stroke="#172235" stroke-width="3"/>
+<path d="M730 211L746 216L739 221L728 217Z M773 216L789 210L792 216L779 221Z" fill="#e3b341"><animate attributeName="opacity" values=".75;1;.75" dur="3s" repeatCount="indefinite"/></path>
+<path d="M638 374L671 405L651 420L678 438L666 466L696 500H620Z" fill="#151d2b"/>
+<path d="M828 306L856 326L877 375L895 420L876 447L900 470L914 500H955L916 391L885 315Z" fill="#070a11"/>
+<!-- rain, kept subtle -->
+<g stroke="#8fc7ff" stroke-width="2" stroke-linecap="round" opacity=".35">
+ <path d="M123 20l-21 48 M260 95l-18 42 M420 22l-21 49 M558 132l-18 44 M1018 56l-20 48 M1132 143l-19 48 M1404 38l-20 48 M1516 155l-19 47 M180 285l-18 45 M363 220l-20 47 M544 315l-18 46 M1013 250l-21 48 M1185 320l-19 46 M1390 270l-20 48 M1512 368l-19 45">
+ <animate attributeName="stroke-dashoffset" from="0" to="95" dur="1.2s" repeatCount="indefinite"/></path>
+</g>
+<rect x="18" y="18" width="1564" height="464" rx="10" fill="none" stroke="#e3b341" stroke-opacity=".22"/>
+<g fill="#e3b341" font-family="monospace" font-size="13" letter-spacing="3" opacity=".76">
+<text x="52" y="54">GOTHAM CITY • 02:17 AM</text><text x="1545" y="456" text-anchor="end">SIGNAL ACTIVE</text>
+</g>
+</svg>
