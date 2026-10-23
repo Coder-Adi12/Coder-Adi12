@@ -48,8 +48,8 @@ BPE tokenizer · Multi-head attention · KV cache · Sampling · Training checkp
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🎙️ <a href="https://github.com/Coder-Adi12/RUSBORN">RUSBORN — Voice AI Agent</a></h3>
-A voice-agent project built around LiveKit Agents / LiveKit Cloud, with connected backend services.
+<h3>🎙️ RUSBORN — Voice AI Agent <sub>(private repository)</sub></h3>
+A private voice-agent project built around LiveKit Agents / LiveKit Cloud, with connected backend services. The source repository is not publicly accessible.
 
 <strong>Explores</strong><br/>
 Real-time voice workflows · Python · LiveKit · Supabase integration
